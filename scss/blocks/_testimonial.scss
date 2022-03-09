@@ -1,0 +1,18 @@
+.testimonial {
+  padding: 65px 0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 97px;
+}
+
+.testimonial__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.testimonial__img {
+  width: 141px;
+  height: 36px;
+}

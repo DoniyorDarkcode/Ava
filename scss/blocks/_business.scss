@@ -1,0 +1,67 @@
+#business{
+  position: relative;
+  background-image: url("../../img/tel-sister.png"),
+                    url("../../img/orangepng.png"),
+                    url("../../img/sky-agle.png");
+  background-position: calc(50% + -18px) calc(50% + 77px),
+                       calc(50% + 520px) calc(50% + 355px),
+                       calc(50% + -894px) calc(50% + 29px);
+  background-repeat: no-repeat;
+  
+}
+.business_img1{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 693px;
+  left: 1362px;
+  
+}
+.business_img2{
+  position: absolute;
+  top: 405px;
+  left: 4px;
+  
+}
+.business {
+  padding-top: 100px;
+  padding-bottom: 150px;
+
+  margin-bottom: 100px;
+  text-align: center;
+}
+.business__title {
+  font-size: 11px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #0057FF;
+}
+.business__heading {
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-bottom: 40px;
+  
+}
+.business__text {
+  font-size: 16px;
+  line-height: 26px; 
+  text-align: center;
+  color: #000000;
+  margin-bottom: 517px;
+}
+.business__link {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}

@@ -1,0 +1,115 @@
+#news{
+  background-image: url("../../img/orangepng.png");
+  background-position: calc(50% + 959px) calc(50% + 166px);
+  background-repeat: no-repeat;
+}
+.news {
+  margin-bottom: 110px;
+  position: relative;
+}
+.news__imgx{
+  position: absolute;
+  top: 44px;
+  left: -47px;
+  width: 60px;
+  height: 60px;
+}
+.news__title {
+  display: block;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #0057FF;
+  margin-bottom: 6px;
+}
+.news__heading {
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 63px;
+  color: #000000;
+}
+.news__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+.news__panel {
+  list-style: none;
+  padding-top: 28px;
+}
+.news__panel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 19px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+.news__box-img {
+  width: 248px;
+  height: 200px;
+  margin-right: 30px;
+}
+.news__panel-title {
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #0057FF;
+}
+.news__panel-heading {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 24px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.news__panel-text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.news__street-img {
+  width: 550px;
+  height: 453px;
+}
+.news__street-title {
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #0057FF;
+}
+.news__street-heading {
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.news__item2{
+  margin-top: 12px;
+  padding: 21px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.news__item2-box{
+  width: 461px;
+  position: absolute;
+  top: 300px;
+  left: 20px;
+}

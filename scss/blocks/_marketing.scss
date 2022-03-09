@@ -1,0 +1,108 @@
+.marketing {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 200px;
+}
+.marketing__content {
+  padding-top: 100px;
+  width: 540px;
+}
+.marketing__heading {
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 49px;
+  color: #000000;
+}
+.marketing__text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  margin-bottom: 36px;
+}
+.marketing__progress-list {
+  list-style: none;
+}
+.marketing__price {
+  width: 540px;
+  border-radius: 15px;
+  box-shadow: 0px 10px 30px rgba(83, 83, 83, 0.15);
+}
+.marketing__price-img {
+  width:  540px;
+  height: 200px;
+  border-radius: 15px;
+  margin-bottom: 12px;
+}
+.marketing__price-box{
+  text-align: center;
+}
+.marketing__number {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+  text-transform: uppercase;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 13px;
+}
+.marketing__date {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-bottom: 22px;
+}
+.marketing__benifit-list {
+  list-style-type: none;
+  margin-left: 109px;
+  margin-bottom: 85px;
+}
+.marketing__benifit-item {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.marketing__price-link {
+  width: 138px;
+  display: inline-block;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  padding: 14px 40px;
+  background-color: #0057FF;
+  text-decoration: none;
+  border-radius: 25px;
+  margin-left:202px;
+  margin-bottom: 40px;
+}
+.marketing__prog{
+  width: 540px;
+  margin-bottom: 20px;
+}
+.marketing__bold{
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.marketing__label{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

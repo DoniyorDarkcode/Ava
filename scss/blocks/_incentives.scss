@@ -1,0 +1,75 @@
+.incentives {
+  margin-bottom: 200px;
+}
+.incentives__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.incentives__item {
+  width: 380px;
+  height: 346px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  padding: 45px 42px;
+}
+.incentives__text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+  margin-bottom:6px;
+}
+.incentives__img {
+  width: 80px;
+  height: 80px;
+  margin-bottom:20px;
+}
+.incentives__name {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}
+.incentives__job {
+  font-weight: normal;
+  margin-bottom:10px;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}
+.incentives__star-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.incentives__pagination {
+  width: 200px;
+  margin: 0 auto;
+  
+}
+.incentives__pagination-list {
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.incentives__pagination-item {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #A7A7A7;
+  margin-left: 10px;
+}
+.incentives__pagination-item:hover{
+  background-color: #000;
+}
